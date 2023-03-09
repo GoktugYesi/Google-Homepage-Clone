@@ -16,3 +16,7 @@ Projede, farklı tarayıcılarda test edilerek, tüm teknolojilerin sorunsuz bir
 1. Projeyi bilgisayarınıza kopyalayın: git clone `https://github.com/Lolkome/Google-Homepage-Clone.git`
 2. Projeyi açın: `cd Google-Homepage-Clone`
 3. `index.html` dosyasını tarayıcınızda açın
+
+## Demo
+
+Demo: https://goktugyesi.github.io/Google-Homepage-Clone/
